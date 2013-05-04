@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"select"
+			],
+			[
+				"s",
+				"select"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"fr",
+				"formshow"
+			],
+			[
+				"show",
+				"showPlusform"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"stri",
+				"stristr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"lista",
+				"listmarca"
+			],
+			[
+				"nom",
+				"nom_categoria"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_object"
+			],
+			[
+				"msql_fec",
+				"msql_fetch_object"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"myql_c",
+				"mysql_connect"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_object"
+			],
+			[
+				"mysq_",
+				"mysql_fetch_lengths"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_object"
+			],
+			[
+				"mys",
+				"mysql_error"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Snippe: ",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"co",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"contr",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"ap",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.9/style/estilo.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.9/js/pg.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.9/user-edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/style/estil.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/html.php",
+		"/Users/isidroalmonte/Aplicaciones/htdocs/mis-jquery/clases_ysidro/practica-2/js/aplicacion.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/style/estilo.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/template/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/user-edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/cursos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/js/jquery.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/js/pg.js",
+		"/Users/isidroalmonte/Aplicaciones/htdocs/mis-jquery/clases_ysidro/practica-2/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/Perfil-propiedad.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/template/aside_right.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/inmoviliaria-0.4.8/style/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/css/bootstrap.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/proces/eliminarProducto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/forms/registrar_producto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/proces/editarProducto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/template/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/agregarPro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/forms/registrar_categoria.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/forms/registrar_marca.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/proces/agregarCat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/proces/agregarMarca.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/engine/proces/agregarProducto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/agregarMarc.php",
+		"/Users/isidroalmonte/Aplicaciones/htdocs/formulario-0.2/enginer/list.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/template/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/fn/motor.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/agregarCat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/content/productos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/content/buscador.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/content/registrar_producto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/include/agergarCat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/agregar.php",
+		"/Users/isidroalmonte/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/carros/modelos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/carros/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/carros/function/function.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/carros/acciones/carros/guardar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/doc.py",
+		"/Users/isidroalmonte/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/isidroalmonte/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/isidroalmonte/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/changelog.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/lol.py",
+		"/Users/isidroalmonte/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"radio",
+			">\n",
+			"idioma",
+			"<label>",
+			"label",
+			"cusos",
+			"hide",
+			"addClass",
+			"(dataFrom = 3 &&",
+			"dataFrom = 2 &&",
+			"                /*=========================================================================================*/",
+			"\\",
+			"<option",
+			"Agregar Nuevo",
+			"\\",
+			"<a",
+			"</li>",
+			"<li>",
+			"\\",
+			"?>",
+			"drop",
+			"images",
+			"icon",
+			"class=\"span1\"",
+			"\"></",
+			"/span",
+			"<span",
+			"h3",
+			"span2",
+			"span",
+			"SET",
+			"l>",
+			"php",
+			"\"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.959448499594,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"est",
+				"style/estilo.css"
+			],
+			[
+				"cs",
+				"style/estil.css"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"rig",
+				"template/aside_right.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"main",
+				"style/main.css"
+			],
+			[
+				"head",
+				"template/header.php"
+			],
+			[
+				"es",
+				"style/estilo.css"
+			],
+			[
+				"pre",
+				"Perfil-propiedad.php"
+			],
+			[
+				"sc",
+				"style/estilo.css"
+			],
+			[
+				"el",
+				"engine/proces/eliminarProducto.php"
+			],
+			[
+				"c",
+				"css/style.css"
+			],
+			[
+				"header",
+				"template/header.php"
+			],
+			[
+				"b",
+				"css/bootstrap.css"
+			],
+			[
+				"ager",
+				"agregarPro.php"
+			],
+			[
+				"por",
+				"engine/proces/agregarProducto.php"
+			],
+			[
+				"marca",
+				"engine/forms/registrar_marca.php"
+			],
+			[
+				"re",
+				"engine/forms/registrar_producto.php"
+			],
+			[
+				"bo",
+				"css/bootstrap.css"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"footer",
+				"template/footer.php"
+			],
+			[
+				"he",
+				"template/head.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}

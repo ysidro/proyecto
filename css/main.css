@@ -1,0 +1,23 @@
+#menuPagechas{
+	background:#fff;
+	left: 30px;
+	padding: 10px;
+	position: fixed;
+	top:0px;
+	z-index: 99;
+}
+#menuPagechas ul{
+	background: #fff;
+	border: solid 1px #ccc;
+	padding: 5px;
+	position: absolute;
+	text-align: center;
+	top:50px;
+	width: 200px;
+	
+}
+#menuPagechas ul li{
+	border-bottom: solid 1px #eee;
+	list-style: none;
+	ma
+}
